@@ -2,7 +2,9 @@
   
 <h2> School Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a>
+- <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a>
+- <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous  </a>
   
 
   
