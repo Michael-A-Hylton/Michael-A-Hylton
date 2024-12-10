@@ -1,13 +1,13 @@
 <h1>Hello World, I'm Michael! <br/><a href="https://github.com/Michael-A-Hylton">Programmer</a> and <a href="www.linkedin.com/in/michael-hylton-93182332a">IT Specialist</a> </h1>
   
 <h2> School Projects:</h2>
-
-- <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a>
-- <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a>
-- <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a>
-- <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous </a>
+<ul>
+  <li> <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous </a>  </li>
   
-
+</ul>
   
 <h2> Work Projects:</h2>
   
