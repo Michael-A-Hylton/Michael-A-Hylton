@@ -19,7 +19,7 @@
     
 <h2> Personal Projects:</h2>
 
-<a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a>
+- <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a>
 
 
 <h2> Connect with me:</h2>
