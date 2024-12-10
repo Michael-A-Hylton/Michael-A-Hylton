@@ -5,7 +5,7 @@
 - <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a>
 - <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a>
 - <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a>
-- <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous  </a>
+- <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous </a>
   
 
   
@@ -19,7 +19,7 @@
     
 <h2> Personal Projects:</h2>
 
-
+<a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a>
 
 
 <h2> Connect with me:</h2>
