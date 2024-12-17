@@ -11,16 +11,19 @@
   
 <h2> Work Projects:</h2>
   
-  - <b>PowerShell</b>
-  
-- <b>HTML</b>
-
-- <b>Python</b>
+<ul>
+  <li> <a href="https://github.com/Michael-A-Hylton/In-House-Tools"> In-house Tools </a> </li>
+</ul>
     
 <h2> Personal Projects:</h2>
 
-- <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a>
+<ul>
+  <li> <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a> </li>
+</ul>
 
+<h2> Certifactes:</h2>
+<ul>
+  <li> <a href ="https://github.com/Michael-A-Hylton/Certified-in-Cybersecurity "> CC (Certified in Cybersecurity) </a> </li>
 
 <h2> Connect with me:</h2>
 
