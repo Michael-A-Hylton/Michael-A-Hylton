@@ -24,16 +24,8 @@
 <h2> Certifactes:</h2>
 <ul>
   <li> <a href ="https://github.com/Michael-A-Hylton/Certified-in-Cybersecurity "> CC (Certified in Cybersecurity) </a> </li>
+  <li> <a href ="https://github.com/Michael-A-Hylton/Security-Cert"> CompTIA Security+ </a> </li>
 
-<h2> Connect with me:</h2>
-
-
-[<img align="left" alt="MichaelHylton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="MichaelHylton | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/micha3lhylton/
-[linkedin]: https://linkedin.com/in/michael-hylton-93182332a/
 
 <!--
 **Michael-A-Hylton/Michael-A-Hylton** is a ✨ _special_ ✨ repository because its `README-Michael-A-Hylton.md` (this file) appears on your GitHub profile.
