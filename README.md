@@ -4,6 +4,7 @@
 <ul>
   <li> <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Data-Mining">Data Mining </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous </a>  </li>
   
