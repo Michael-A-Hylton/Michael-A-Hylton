@@ -19,6 +19,7 @@
 
 <ul>
   <li> <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/LetsDefendLabs">SOC Analyst Lab Work Via Let's Defend</a> </li>
 </ul>
 
 <h2> Certifactes:</h2>
