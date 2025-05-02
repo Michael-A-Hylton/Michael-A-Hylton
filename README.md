@@ -1,26 +1,27 @@
 <h1>Hello World, I'm Michael! <br/><a href="https://github.com/Michael-A-Hylton">Programmer</a> and <a href="www.linkedin.com/in/michael-hylton-93182332a">IT Specialist</a> </h1>
   
-<h2> School Projects:</h2>
+<h2> Data Science Projects:</h2>
 <ul>
+  <li> <a href="https://github.com/Michael-A-Hylton/IMDb_ML_Alg">Movie Rating and Machine Learning </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/Database-Concepts-Codes ">Database Concepts </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/Data-Science ">Data Science </a> </li>
-  <li> <a href="https://github.com/Michael-A-Hylton/Data-Mining">Data Mining </a> </li>
-  <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
-  <li> <a href="https://github.com/Michael-A-Hylton/Junior-Year ">Miscellaneous </a>  </li>
+
+  
   
 </ul>
   
-<h2> Work Projects:</h2>
+<h2> IT Programming Projects:</h2>
   
 <ul>
-  <li> <a href="https://github.com/Michael-A-Hylton/In-House-Tools"> In-house Tools </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/In-House-Tools"> Custom IT Tool </a> </li>
 </ul>
     
-<h2> Personal Projects:</h2>
+<h2> Development Projects:</h2>
 
 <ul>
   <li> <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a> </li>
   <li> <a href="https://github.com/Michael-A-Hylton/LetsDefendLabs">SOC Analyst Lab Work Via Let's Defend</a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
 </ul>
 
 <h2> Certifactes:</h2>
