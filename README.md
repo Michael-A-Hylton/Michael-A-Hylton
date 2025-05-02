@@ -10,17 +10,17 @@
   
 </ul>
   
-<h2> IT Programming Projects:</h2>
+<h2> IT and Cybersecurity Programming Projects:</h2>
   
 <ul>
   <li> <a href="https://github.com/Michael-A-Hylton/In-House-Tools"> Custom IT Tool </a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a> </li>
 </ul>
     
 <h2> Development Projects:</h2>
 
 <ul>
-  <li> <a href="https://github.com/Michael-A-Hylton/Lattice-Encryption">Lattice Encryption Program </a> </li>
-  <li> <a href="https://github.com/Michael-A-Hylton/LetsDefendLabs">SOC Analyst Lab Work Via Let's Defend</a> </li>
+  <li> <a href="https://github.com/Michael-A-Hylton/Spring25_CIS434_FinalProject" > Encrypted SMS </a></li>
   <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
 </ul>
 
