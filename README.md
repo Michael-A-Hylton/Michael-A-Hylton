@@ -1,6 +1,6 @@
 <h1>Hello World, I'm Michael! <br/>Programmer and IT Specialist</h1>
 
-Welcome! This repository showcases programming projects from both my academic journey and recent career experience. I'm always eager to learn and grow as a developer, with hands-on familiarity in Python, C, and Java across a range of software, cybersecurity, and data-driven projects.
+Welcome! This repository showcases programming projects from both my academic journey and recent career experience. I'm always eager to learn and grow as a developer, with hands-on familiarity in Python, C, and Java across a range of software, cybersecurity, and data-driven projects. I've worked with tools and technologies such as Git, Flask, Linux, Wireshark, and Jupyter Notebook—applying them across software development, cybersecurity, and data-driven projects.
   
 <h2> Data Science Projects:</h2>
 <ul>
