@@ -1,5 +1,6 @@
 <h1>Hello World, I'm Michael! <br/>Programmer and IT Specialist</h1>
 
+Welcome! This repository showcases programming projects from both my academic journey and recent career experience. I'm always eager to learn and grow as a developer, with hands-on familiarity in Python, C, and Java across a range of software, cybersecurity, and data-driven projects.
   
 <h2> Data Science Projects:</h2>
 <ul>
@@ -19,10 +20,10 @@
 <ul>
   <li> <a href="https://github.com/Michael-A-Hylton/Spring25_CIS434_FinalProject" > Encrypted SMS </a></li>
   <li> <a href="https://github.com/Michael-A-Hylton/Operating-Systems ">Operating Systems </a> </li>
-  <li> <a href="https://github.com/Michael-A-Hylton/Data-Science ">Advance Tic-Tac-Toe</a> </li>  
+  <li> <a href="https://github.com/Michael-A-Hylton/Data-Science ">Advanced Tic-Tac-Toe</a> </li>  
 </ul>
 
-<h2> Certifactes:</h2>
+<h2> Certificates:</h2>
 <ul>
   <li> <a href ="https://github.com/Michael-A-Hylton/Certified-in-Cybersecurity "> CC (Certified in Cybersecurity) </a> </li>
   <li> <a href ="https://github.com/Michael-A-Hylton/Security-Cert"> CompTIA Security+ </a> </li>
